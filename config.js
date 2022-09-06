@@ -3,15 +3,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['212609493719','Arctix',true],
-  ['212609493719','Arceus',true],
-  ['212609493719', 'sibu', true],
-  //['447451240296']
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
-global.mods = [] // Want some help?
-global.prems = ['919337956084,447451239331,447451231393'] // Premium user has unlimited limit
-global.APIs = { // API Prefix
+  ['212690988389','Arctix',true],
+  ['212690988389','Arceus',true],
+  ['212690988389', 'sibu', true],
+  //['212690988389']
+  /™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝙕𝙖𝙠𝙚💞乂/ [number, dia creator/owner?, dia developer?]
+] /™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝙕𝙖𝙠𝙚💞乂/ Put your number here
+global.mods = [™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝙕𝙖𝙠𝙚💞乂] // Want some help?
+global.prems = ['212690988389'] // Premium user has unlimited limit
+global.APIs = { /™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝙕𝙖𝙠𝙚💞乂/ API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -35,8 +35,64 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'لأزــ؏ـــــࢪ المــلــڪيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹;//!!;
-global.author = 'لأزــ؏ـــــࢪ المــلــكيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹.'
+global.packname = ⚜︎╎dᥱᥲdᥣყ ꨄ︎ 𝐳𝐚𝐤𝐞╎⚜︎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ㅤ;//!!;
+global.author = ™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝙕𝙖𝙠𝙚💞乂.'
 
 global.multiplier = 69 // The higher, The harder levelup
 
